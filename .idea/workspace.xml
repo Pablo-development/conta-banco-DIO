@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb8dcb53-76d6-4619-9736-6772fcc87908" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/projetos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/API_Server_Side/.idea/API_Server_Side.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/ApiTurmaB/.idea/ApiTurmaB.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/ApiTurmaB2/.idea/ApiTurmaB2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/AprendizadoFirebase/.idea/AprendizadoFirebase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/AprendizadoFirebase/key/serversideclasstest-b6fad63874d0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/ServerSideN2/.idea/ServerSideN2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/aula08Flask/.idea/aula08Flask.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/crudServerSide/.idea/crudServerSide.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/python_jwt/.idea/python_jwt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/python_jwt_B/.idea/python_jwt_B.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/teste/.idea/teste.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2kwbJUvZPZy1IkwvqMULMR72MXg" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/pablo/Lombok/lombok.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="lab-banco-digital-oo-master" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-22-openjdk-22-4caba194b151-f504ca98" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb8dcb53-76d6-4619-9736-6772fcc87908" name="Changes" comment="" />
+      <created>1724197514269</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724197514269</updated>
+      <workItem from="1724197515331" duration="3459000" />
+      <workItem from="1724253859463" duration="3064000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
